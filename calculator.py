@@ -31,3 +31,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def CircleArea(r):
+    if r >= 0:
+        retur 3.14 * r * r
+    else:
+        return "NaN"
